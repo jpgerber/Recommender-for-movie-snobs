@@ -1,5 +1,4 @@
 # Recommender-for-movie-snobs
-This project looks at ways to improve movie recommendations so that movie snobs get better recommendations. It is the first capstone project from my Springboard course.
-
-A subquestion I wish to answer is whether anything can distinguish the Dark Knight and the Dekalog.
-
+This project developed simple metrics of movie snobbery, working with the various stereotypes of hipsters. These findings might be applied to tweak recommender systems.
+I found that movie snobbery is best defined as an interest in older movies and obscure movies. Extremeness of ratings (like Statler & Waldorf in The Muppets) is not a good indicator of snobbery.
+This analysis was run by joining a canonical list of movies to a Grouplens movie rating dataset.
